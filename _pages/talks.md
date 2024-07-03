@@ -14,9 +14,9 @@ author_profile: true
 ---
 ## Conference presentations
 
-**Liang, X.**, Quent J., Song L., Su Y., Vatansever D. (2024) *Passive Spatial Learning in Humans: Neural Alignment during Naturalistic Navigation* Poster presented at the Annual Meeting of the the Organization for Human Brain Mapping, Seoul, Korea. [`Poster`](https://github.com/liang-xinyu/liang-xinyu.github.io/blob/master/files/LXY_OHBM_Poster_2024.pdf)
+**Liang, X.**, Quent J., Song L., Su Y., Vatansever D. (2024) *Passive Spatial Learning in Humans: Neural Alignment during Naturalistic Navigation* Poster presented at the Annual Meeting of the the Organization for Human Brain Mapping, Seoul, Korea. [`Poster`](https://liang-xinyu.github.io/files/LXY_OHBM_Poster_2024.pdf)
 
-**Liang, X.**, Zhuang K., Wang Y., Yang P., Feng J., Vatansever D. (2023). *Portraits versus Landscapes: Neural Responses to the Aesthetic Appreciation of Visual Artworks*. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Montreal, Canada. [`Poster`](https://github.com/liang-xinyu/liang-xinyu.github.io/blob/master/files/LXY_OHBM_Poster_2023.pdf)
+**Liang, X.**, Zhuang K., Wang Y., Yang P., Feng J., Vatansever D. (2023). *Portraits versus Landscapes: Neural Responses to the Aesthetic Appreciation of Visual Artworks*. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Montreal, Canada. [`Poster`](https://liang-xinyu.github.io/files/LXY_OHBM_Poster_2023.pdf)
 
 **Liang, X.**, Gong, G. (2019). *The association between functional homotopy and laterality of hemispheric functional segregation*. Poster presented at the Annual Meeting of the Organization for Human Brain Mapping, Rome, Italy.
 
