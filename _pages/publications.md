@@ -10,7 +10,7 @@ author_profile: true
 
 You can find my full list of publications on my Google Scholar profile: [`[Google Scholar]`](https://scholar.google.com/citations?user=pJqylw4AAAAJ&hl=zh-TW&authuser=1)
 
-**Liang X.**\*, Luo J., Yang L., Vatansever D., Jefferies E., Gong G.\* Functional divergence between the two cerebral hemispheres contributes to human fluid intelligence. *bioRxiv*. [`[DOI]`](https://doi.org/10.1101/2024.04.05.586081)
+**Liang X.**\*, Luo J., Bi Q., Jiang Y., Yang L., Vatansever D., Jefferies E., Gong G.\* Functional divergence between the two cerebral hemispheres contributes to human fluid intelligence. *Communications Biology*. 2025 8:764 [`[DOI]`](https://doi.org/10.1038/s42003-025-08151-3)
 
 Jin X., **Liang X.**\*, Gong G.\* The relationship between interhemispheric homotopic functional connectivity and left-right difference of intrahemispheric functional integration in the human brain. *Imaging Neuroscience*. 2024 2:1–18. [`[DOI]`](https://doi.org/10.1162/imag_a_00205)
 
