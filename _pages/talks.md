@@ -13,6 +13,7 @@ author_profile: true
 
 ---
 ## Conference presentations
+**Liang, X.**, Zhuang K., Wang Y., Kaiser D., Hebart M., Vatansever D. (2025) *Beauty beyond categories: A domain-general neuralsignature of visual aesthetics* (**Merit Abstract Award**) Poster presented at the Annual Meeting of the the Organization for Human Brain Mapping, Brisbane, Australia. 
 
 **Liang, X.**, Quent J., Song L., Su Y., Vatansever D. (2024) *Passive Spatial Learning in Humans: Neural Alignment during Naturalistic Navigation* Poster presented at the Annual Meeting of the the Organization for Human Brain Mapping, Seoul, Korea. [`[Poster]`](https://liang-xinyu.github.io/files/LXY_OHBM_Poster_2024.pdf)
 
