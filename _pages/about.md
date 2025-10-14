@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a postdoctoral research fellow working with Prof. Deniz Vatansever at Fudan University. I completed my PhD under the supervision of Prof. Gaolang Gong at Beijing Normal University, and I am currently a visiting researcher collaborating with Prof. Emmanuel A. Stamatakis at the University of Cambridge.
 
-I'm currently a postdoc research fellow working with Deniz Vatansever at the Fudan University. I completed my PhD with Gaolang Gong at Beijing Normal University.
-
-I have been engaged in cognitive neuroscience research based on multimodal magnetic resonance brain imaging, systematically exploring and analyzing the lateralized organizational patterns of cortical functional networks in the human brain. Since joined the ISTBI, he has been focused on using cutting-edge analytical methods to investigate human brain activities and connectivities during different cognitive task, related to the neuroaesthetics as well as spatial navigation and learning.
+During my PhD, I conducted research in cognitive neuroscience using multimodal magnetic resonance imaging, systematically investigating the lateralized organizational patterns of cortical functional networks in the human brain. Since beginning my postdoctoral research, I have focused on applying advanced multivariate analytical methods, such as machine learning based neural decoding and representational similarity analysis (RSA), to study brain activity during various cognitive tasks, with a particular focus on neuroaesthetics, spatial navigation, and naturalistic learning.
 
 
