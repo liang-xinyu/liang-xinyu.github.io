@@ -19,7 +19,7 @@ Work experience
 * 2025.10 - Present: Visiting Researcher
   * University of Cambridge
   * Supervisor: Emmanuel A Stamatakis
-  * 
+
 * 2021.6 - Present: Postdoc Research Fellow
   * Fudan University
   * Supervisor: Deniz Vatansever
