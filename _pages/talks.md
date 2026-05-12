@@ -10,10 +10,9 @@ author_profile: true
 ---
 ## Talks
 * Beauty Beyond Categories: A domain-general neural signature of visual aesthetics across naturalistic objects
+  * IAEA 2026 (XXIX Congress of the International Association of Empirical Aesthetics)
   * 7th May 2026
-  * the International Association for Empirical Aesthetics (IAEA) congress 
   * Jena, Germany
-
 
 ---
 ## Conference presentations
